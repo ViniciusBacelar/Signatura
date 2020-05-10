@@ -21,4 +21,4 @@ Front-end
 
 Back-end
 - jonasearth
-- bacelar-sudo
+- ViniciusBacelar
